@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samratsinh Dodiya.
-- 👀 I’m interested in Web Development & eSports.
-- 🌱 I’m currently learning CSS and JavaScript and DSA.
-- 💞️ I’m looking to collaborate on Web Development projects and eSports team for Valorant.
+- 👀 I’m interested in Web Development, Game Dev & Video editing.
+- 🌱 I’m currently learning CSS and JavaScript and Data Structure.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 Reach me at Linkedin www.linkedin.com/in/Samratsinh
 
 <!---
